@@ -1,0 +1,30 @@
+body {
+	background-color:transparent;
+	padding: 30px 20px;
+	font-family: serif;
+	font-size: 1.5em; /*The size of an em value is dynamic*/
+	max-width: 3000px;
+	margin: 0 auto;
+}   
+h1{
+	text-align: center;
+	color:Black;
+}
+.lessons {
+	background-color:red;
+	color:white;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px auto;
+}
+.concept-name {
+  text-align: center;
+  font-size: 30px;
+}
+.concepts {
+	background-color: #BAB3B6;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
